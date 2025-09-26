@@ -1,4 +1,4 @@
-To run the code "XX" the following libraries must be installed:
+To run the code "Final Code.py" the following libraries must be installed:
 
 - numpy
 - spicy
