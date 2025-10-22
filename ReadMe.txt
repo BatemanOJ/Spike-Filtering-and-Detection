@@ -1,14 +1,6 @@
-To run the code "Final Code.py" the following libraries must be installed:
+To run the code "Final Code.py" first you should run the following line to ensure the correct libraries are installed:
 
-- numpy
-- spicy
-- matplotlib
-- os
-
-This can be done by using the following command in the command window:
-
-pip install numpy scipy matplotlib
-
+pip install -r requirements.txt
 
 It must also be ensured that the following modules and data set files are in the working directory
 
